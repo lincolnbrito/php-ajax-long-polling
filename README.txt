@@ -1,1 +1,1 @@
-Simulate real-time notifications with Ajax Long-Polling
+How to simulate real-time notifications with Ajax Long-Polling
